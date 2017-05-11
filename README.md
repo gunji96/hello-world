@@ -1,3 +1,3 @@
 # hello-world
 
-About time I learned how to use GitHub!
+About time I started learning how to use GitHub!
